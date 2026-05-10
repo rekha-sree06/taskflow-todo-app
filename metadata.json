@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A serene productivity application designed for digital stillness and focused task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Task Management", "Performance Analytics", "Weekly Planning"]
+}
