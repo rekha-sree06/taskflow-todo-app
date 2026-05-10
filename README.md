@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# TaskFlow
 
-# Run and deploy your AI Studio app
+A modern productivity-focused Todo web application built with React, Tailwind CSS, and TypeScript.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/b735df6f-296e-47a8-b528-9678f6f5aa59
+- Task creation and management
+- Dark / Light mode
+- Productivity analytics dashboard
+- Archive and filters
+- Responsive modern UI
+- LocalStorage persistence
+- Interactive charts and calendar
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Framer Motion
+- Recharts
 
+## Live Demo
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://taskflow-todo-app-psi.vercel.app/
+
+## Installation
+
+```bash
+npm install
+npm run dev
